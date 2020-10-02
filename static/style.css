@@ -1,0 +1,25 @@
+#wrapper {
+    width: 1000px;
+    height: 900px;
+    margin: 0px auto;
+}
+
+.rowOne {
+    display: flex;
+}
+
+.rowTwo {
+    display: flex;
+}
+
+.lightBox {
+    background-color: red;
+    height: 100px;
+    width: 100px;
+}
+
+.darkBox {
+    background-color: black;
+    height: 100px;
+    width: 100px;
+}
